@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Juan Manuel Mogliati  
 
-💻 **Full Stack JavaScript Developer** | React • Node.js • TypeScript  
+💻 **Full Stack JavaScript Developer** | React • Next.js • Node.js • TypeScript  
 📍 Buenos Aires, Argentina  
 
 ---
